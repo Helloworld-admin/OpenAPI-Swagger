@@ -1,1 +1,1 @@
-# OpenAPI-Swagger-
+# OpenAPI-Swagger
